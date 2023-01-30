@@ -2,5 +2,5 @@
 Gyakorló repo a projektmunkához 2. felvonás
 
 ## Csapattagok névsora
-- Kovács Péter
-- Nováki Tamás
+* Kovács Péter
+* Nováki Tamás
